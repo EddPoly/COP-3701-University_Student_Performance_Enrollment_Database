@@ -1,2 +1,2 @@
-<img width="1229" height="524" alt="Screenshot 2026-02-20 195437" src="https://github.com/user-attachments/assets/d9e12bd7-a572-4b5c-b813-786d688b911c" />
-User Groups: Student, Guardian (optional), Faculty, Registrar
+<img width="1328" height="707" alt="Screenshot 2026-03-02 183809" src="https://github.com/user-attachments/assets/0f4ed11e-99e7-4160-95f6-66a781690bc4" />
+User groups: Student, Guardian (optional), Faculty, Registrar
