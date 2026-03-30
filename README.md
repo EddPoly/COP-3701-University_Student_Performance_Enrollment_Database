@@ -10,3 +10,5 @@ University Administration
 Student Alcohol Consumption - https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
 
 Student Performance Predictions - https://www.kaggle.com/datasets/haseebindata/student-performance-predictions
+
+https://discovery.cs.illinois.edu/dataset/course-catalog/
