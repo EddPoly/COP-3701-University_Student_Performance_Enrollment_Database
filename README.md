@@ -8,3 +8,4 @@ University Administration
 
 ## Data Sources
 Student Alcohol Consumption - https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
+Student Performance Predictions - https://www.kaggle.com/datasets/haseebindata/student-performance-predictions
