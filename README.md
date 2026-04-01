@@ -12,3 +12,6 @@ Student Alcohol Consumption - https://www.kaggle.com/datasets/uciml/student-alco
 Student Performance Predictions - https://www.kaggle.com/datasets/haseebindata/student-performance-predictions
 
 University of Illinois Urbana-Champaign Course Catalog Dataset - https://discovery.cs.illinois.edu/dataset/course-catalog/
+
+## Entity-Relationship Diagram
+https://github.com/EddPoly/COP-3701-University_Student_Performance_Enrollment_Database/blob/main/database_er.md
