@@ -1,2 +1,2 @@
-<img width="1328" height="707" alt="Screenshot 2026-03-02 183809" src="https://github.com/user-attachments/assets/0f4ed11e-99e7-4160-95f6-66a781690bc4" />
+<img width="1258" height="498" alt="Revised ER Database Project" src="https://github.com/user-attachments/assets/7b25d62a-a345-435b-9f09-510dbb1fa552" />
 User groups: Student, Guardian (optional), Faculty, Registrar
