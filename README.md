@@ -14,4 +14,4 @@ Student Performance Predictions - https://www.kaggle.com/datasets/haseebindata/s
 University of Illinois Urbana-Champaign Course Catalog Dataset - https://discovery.cs.illinois.edu/dataset/course-catalog/
 
 ## Entity-Relationship Diagram
-(database_er.md)[datebase_er.md]
+[Database ER Diagram](database_er.md)
