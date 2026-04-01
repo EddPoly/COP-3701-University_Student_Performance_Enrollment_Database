@@ -7,8 +7,6 @@ An academic database tracking students, courses, enrollment, grades, and attenda
 University Administration
 
 ## Data Sources
-Student Alcohol Consumption - https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
-
 Student Performance Predictions - https://www.kaggle.com/datasets/haseebindata/student-performance-predictions
 
 University of Illinois Urbana-Champaign Course Catalog Dataset - https://discovery.cs.illinois.edu/dataset/course-catalog/
