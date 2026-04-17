@@ -248,7 +248,7 @@ elif bubble == "Course Information":
                 try:
                     conn = get_connection()
                     cur = conn.cursor()
-                    cur.execute("SELECT c.CourseID, c.CourseName, c.Credits, c.Description FROM Course c WHERE c.CourseName = :1", [cname])
+                    cur.execute("SELECT * FROM Course c WHERE c.CourseName = :1", [cname])
                     data = cur.fetchall()
                     df = pd.DataFrame(data, columns=["CourseID", "Course_Name", "Credits", "Description"])
                     conn.commit()
@@ -268,7 +268,7 @@ elif bubble == "Course Information":
                 try:
                     conn = get_connection()
                     cur = conn.cursor()
-                    cur.execute("SELECT c.CourseID, c.CourseName, c.Credits, c.Description FROM Course c WHERE c.CourseID = :1", [cid])
+                    cur.execute("SELECT * FROM Course c WHERE c.CourseID = :1", [cid])
                     data = cur.fetchall()
                     df = pd.DataFrame(data, columns=["CourseID", "Course_Name", "Credits", "Description"])
                     conn.commit()
