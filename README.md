@@ -21,3 +21,5 @@ Step 2: Use the dataload.py file with the provided data folder to load the data 
 
 Step 3: Run app.py using your information to setup with the command:
   streamlit run app.py
+
+<img width="1918" height="1035" alt="Screenshot 2026-04-26 233412" src="https://github.com/user-attachments/assets/f8a11678-429d-4743-86c4-05897dbfee27" />
