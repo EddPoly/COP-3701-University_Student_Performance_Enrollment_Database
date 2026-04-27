@@ -16,6 +16,8 @@ University of Illinois Urbana-Champaign Course Catalog Dataset - https://discove
 
 ## How to Use
 Step 1: Use the create_db.sql file to create the database
+
 Step 2: Use the dataload.py file with the provided data folder to load the data into the database. (Make sure to add your information to setup)
+
 Step 3: Run app.py using your information to setup with the command:
   streamlit run app.py
