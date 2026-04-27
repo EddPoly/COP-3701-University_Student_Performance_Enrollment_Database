@@ -3,10 +3,10 @@ import csv
 import os
 
 # --- SETUP ---
-LIB_DIR = r"C:\oracle\instantclient_23_0"  
-DB_USER = "system" 
-DB_PASS = "21466K" 
-DB_DSN  = "localhost:1521/XE"
+LIB_DIR = "" # Your Instant Client Path
+DB_USER = "" # DB Username
+DB_PASS = "" # DB Password
+DB_DSN  = "" # DSN Here
 
 # Initialize Thick Mode (Required for FreeSQL/Cloud)
 oracledb.init_oracle_client(lib_dir=LIB_DIR)
